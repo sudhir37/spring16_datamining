@@ -53,48 +53,12 @@ Our team consists of two members, David B. and Greg P.; Greg did much of the fro
 PROJECT DELIVERABLES AND CHECKPOINTS
 ====================================
 
-<table style="width:362%;">
-<colgroup>
-<col width="25%" />
-<col width="111%" />
-<col width="40%" />
-<col width="186%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="center">Checkpoint date</th>
-<th align="center">Expected Deliverable</th>
-<th align="center">Responsible team member(s)</th>
-<th align="center">Checkpoint results</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="center">2/1/2016</td>
-<td align="center">Exploratory data analysis of IRS data.</td>
-<td align="center">David B., Greg P.</td>
-<td align="center">Basic statistical information about the data; Jupyter notebook of results; cluster analysis of IRS data; code checked in to Github.</td>
-</tr>
-<tr class="even">
-<td align="center">2/15/2016</td>
-<td align="center">Integration of school district data with IRS data.</td>
-<td align="center">Greg P.</td>
-<td align="center">Data testing completed.</td>
-</tr>
-<tr class="odd">
-<td align="center">2/29/2016</td>
-<td align="center">Development of API for analysis reporting.</td>
-<td align="center">David B.</td>
-<td align="center">API functionality complete; checked in to Github.</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td align="center">Development of build and deployment script. Development of API test harness.</td>
-<td align="center">Greg P.</td>
-<td align="center">Build scripts completed; test cases only at 30% of target (10 tests).</td>
-</tr>
-</tbody>
-</table>
+| Checkpoint date | Expected Deliverable                                                          | Responsible team member(s) | Checkpoint results                                                                                                                  |
+|-----------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 2/1/2016        | Exploratory data analysis of IRS data.                                        | David B., Greg P.          | Basic statistical information about the data; Jupyter notebook of results; cluster analysis of IRS data; code checked in to Github. |
+| 2/15/2016       | Integration of school district data with IRS data.                            | Greg P.                    | Data testing completed.                                                                                                             |
+| 2/29/2016       | Development of API for analysis reporting.                                    | David B.                   | API functionality complete; checked in to Github.                                                                                   |
+|                 | Development of build and deployment script.  Development of API test harness. | Greg P.                    | Build scripts completed; test cases only at 30% of target (10 tests).                                                               |
 
 (b) TEAM
 
