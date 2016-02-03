@@ -24,19 +24,19 @@ Our basic questions will first explore:
 - How well did the classifier built compare to the labeled data - what was the accuracy and performance of the classifier?
 - What kinds of features can be used to improve the classifier?
 
-MODELS AND ANALYSIS
+# MODELS AND ANALYSIS
 -------------------
 
 The models are described and the preliminary analyses were performed in a Jupyter Notebook found in our Github repo under analysis.
 
 
 
-CODE AND APPLICATION
+# CODE AND APPLICATION
 --------------------
 
 The code is in Github and instructions on installation are in the README.md file.
 
-PROJECT MANAGEMENT
+# PROJECT MANAGEMENT
 ------------------
 
 Our team consists of two members, Mike C. and Steve G.; Mike did much of the API work, while Stevef did the NLP implementation. API work consisted of building web endpoints to train, test and extract sentiment scores from user supplied texts. NLP work consisted of building a classifier that provided a positive or negative sentiment for a given tweet.
