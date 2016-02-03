@@ -57,7 +57,7 @@ You will also provide details about the project deliverables and milestones.  Th
 These tables show  examples of the data that should go into each column and row.
 
 
-## Team
+## TEAM
 
 | Team member | Roles and skills | Contributions |
 |-------------|-------------------------|---------------------------------------------|
